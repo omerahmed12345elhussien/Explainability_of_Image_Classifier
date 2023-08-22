@@ -6,9 +6,9 @@ This repository contains the source code necessary to reproduce all the results 
   
 In this work, we are interested to know which parts of the image our model used to make correct predictions about the different classes in the dataset. The images below express our findings with one classifier. We can see how our classifier focuses on specific parts of the dog for each breed to make a correct prediction.
 <p float="left">
-  <img src="https://github.com/omerahmed12345elhussien/Explainable-Image-Classifier-case-study-on-Dogs-Breeds/blob/main/images/3_vit_c.png" width="33%" />
-  <img src="https://github.com/omerahmed12345elhussien/Explainable-Image-Classifier-case-study-on-Dogs-Breeds/blob/main/images/3_vit_m.png" width="33%" />
-  <img src="https://github.com/omerahmed12345elhussien/Explainable-Image-Classifier-case-study-on-Dogs-Breeds/blob/main/images/4_vit_j.png" width="33%" />
+  <img src="images/3_vit_c.png" width="33%" />
+  <img src="images/3_vit_m.png" width="33%" />
+  <img src="images/4_vit_j.png" width="33%" />
 </p>
 
 ## Repository contents
